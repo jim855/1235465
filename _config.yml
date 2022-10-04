@@ -1,9 +1,9 @@
-title: POWER 
-tagline: Battery
+title: AI 
+tagline: Autonomous
 
 author:
-  name: Jimsoy
-  url: 
+  name: Jim 
+  url: https://www.facebook.com/profile.php?id=100001271065926
 
 plugins:
   - jekyll-feed
